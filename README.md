@@ -14,4 +14,4 @@
 
 Glowing Blooms' brand reputation strategy focuses on building trust, handling feedback effectively, and fostering positive customer relationships through active monitoring and engagement. It emphasizes transparency, community involvement, and long-term credibility.
 
-output: 
+output: [Glowing Blooms task 4.docx](https://github.com/user-attachments/files/20959339/Glowing.Blooms.task.4.docx)
